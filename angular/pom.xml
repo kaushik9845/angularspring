@@ -42,7 +42,7 @@
               <npmVersion>5.5.1</npmVersion>
             </configuration>
           </execution>
-		<!-- <execution>
+		 <execution>
              <id>npm install</id>
             <goals>
               <goal>npm</goal>
@@ -50,7 +50,7 @@
             <configuration>
               <arguments>install</arguments>
             </configuration>
-          </execution> -->
+          </execution> 
 
 
         <execution>
